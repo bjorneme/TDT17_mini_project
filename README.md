@@ -7,6 +7,10 @@ This notebook segments head and neck tumors (HNTS). It uses 3D Swin UNETR archit
 - SwinUNETR
 - SwinUNETR using pretrained weights
 
+### How to run the code
+
+To run the code, it is necessary to execute it within IDUN. This is necessary to get access to the dataset. If the code is not run inside IDUN, the paths in the notebook must be adjusted to correct folders.
+
 ### Sources used:
 
 [1]: Tang, Y., Yang, D., Li, W., Roth, H.R., Landman, B., Xu, D., Nath, V. and Hatamizadeh, A., 2022. Self-supervised pre-training of swin transformers for 3d medical image analysis. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 20730-20740).
